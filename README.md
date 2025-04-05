@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working as a QA Engineer and dealing with manual testing for mobile devices. 
+- 🌱 I’m currently learning testing automation and Spanish :)
+- 📫 How to reach me: [linkedIn](https://www.linkedin.com/in/allexandresampaio/)
+- 😄 Pronouns: he/him
+
 <!--
 **allexandresampaio/allexandresampaio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
